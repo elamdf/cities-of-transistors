@@ -1,0 +1,6 @@
+#+title: Cities of Transistors
+#+author: Elam Day-Friedland
+
+This project seeks to explore shared notions of movement and information between macro-level architecture (urban planning) and the microarchitecture of the massively parallel processors that feed evergrowing demand for compute resources.
+
+See [[./resources/Cities of Transistors.key]] for current ideations.
