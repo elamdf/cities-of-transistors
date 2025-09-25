@@ -47,3 +47,5 @@ What parallels do we want to draw?
 homogenous fabric is nominally easier to reason about
 - performance goals
   maximize throughput by minimizing communication
+* Looking forward
+how can urban design be influenced by architecture? / vice versa
