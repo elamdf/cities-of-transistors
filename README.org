@@ -13,6 +13,8 @@ A GPU (graphics processing unit) is a large array of small procesing units that 
 The processing units communicate to synchronoize and share results,
 but communication (moving information across the physical chip) is expensive (time, energy) compared to keeping it within the individual units so it is minimized.
 
+Here are some characteristics of GPUs that may be fruitful to explore in relation to American suburbs:
+
 * Lack of Verticality
 In compute chips,
 transistors are (for now) laid out in a single 2D layer.
@@ -31,3 +33,17 @@ hierarchical transportation channels (garage/cul-de-sac < local road < main road
 
 Transportation channels may be hierarchical,
 but everything is very regular + homogenous.
+
+* working
+We could define a 'suburban' processor architecture,
+with architecture diagrams and rtl/layout?
+
+Present along a darpa/nsf grant application
+
+What parallels do we want to draw?
+- economic motivation:
+  certain resources (land/area) are cheaper than others (density)
+- ease of design / 'programming'
+homogenous fabric is nominally easier to reason about
+- performance goals
+  maximize throughput by minimizing communication
