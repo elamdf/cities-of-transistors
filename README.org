@@ -1,11 +1,12 @@
 #+title: Cities of Transistors
 #+author: Elam Day-Friedland
 
-This project seeks to explore shared notions of movement and information between macro-level architecture (urban planning) and the microarchitecture of the massively parallel processors that feed ever-growing demand for compute resources.
-Of particular interest are the following architectural motifs:
-a lack of verticality / a pervasive 'flatness',
-highly regular/structured layout,
+
+This project seeks to explore common notions of movement and information between macro-level architecture (urban planning) and the microarchitecture of the massively parallel processors that feed ever-growing demand for compute resources. Of particular interest are the following computational architectural motifs (that I think may have parallels in urban spaces): (potentially) a lack of verticality / a pervasive 'flatness',
+highly regular/structured layout of standardized components (forming distinct regions at different levels of the hierarchy),
 and hierarchical communication/movements channels.
+
+I'm looking for input from an macro-architecture/urban planning perspective on motifs or concepts that could lend more formal structure to the "silicon cities" I'm interested in creating.
 
 * GPU Background
 
@@ -49,3 +50,7 @@ homogenous fabric is nominally easier to reason about
   maximize throughput by minimizing communication
 * Looking forward
 how can urban design be influenced by architecture? / vice versa
+
+urban architecture -> heterogenous, 3d architectures
+
+there is no more budget for homogenous, 'easy' architectures in chip
