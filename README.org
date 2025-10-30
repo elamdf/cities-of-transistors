@@ -1,12 +1,56 @@
 #+title: Cities of Transistors
 #+author: Elam Day-Friedland
 
+* Midterm feedback 10.30.25
+AviGilad: M1 Chip — apple. very energy efficient
+Tiny clock, infrastructure. Chip architecture. Entire world economy - city channels.
+Tobias: be more specific. internet cables.
+Hugh: MOMA has early patent drawings of chip designs. Think of ways in which recursively are reabsorbed into the city infrastructure. Chips —> being displayed as art in the moma. discursive, replicate city architecture..
+Vladimir: to provoke you:
+Ula: what can you drop in to illuminate these processes. Here they’re invisible in this map (the processes you’re talking about)
+Whats the temporal behaviour? Score, catalyst
+Tobias: idea of  a clock is super interesting. Functionality (Chip is simple). Clock that gives certain.. timestamp. Measurement with the chip, and measurement in the city. for the city, is there something you can juxtapose? equivalent pulsating behaviour..
+Ula: layering and depth, flip the map (?)
+Aram: cables, time, stock exchange. Nanoseconds..
 
-This project seeks to explore common notions of movement and information between macro-level architecture (urban planning) and the microarchitecture of the massively parallel processors that feed ever-growing demand for compute resources. Of particular interest are the following computational architectural motifs (that I think may have parallels in urban spaces): (potentially) a lack of verticality / a pervasive 'flatness',
+** my notes
+tobias- look at internet infra maps (fiber cables etc.)
+
+chips as art (MOMA)
+
+Gediminas- is this a graphic or graphic that represents operation
+
+looking at collapsed representations and lifting htem back into dynamism
+
+creating a ?? of information flow from some spore
+
+financial cycles
+
+* TODO transparent film paper of city on top of micrpgraph
+
+* overview
+
+This project seeks to explore common notions of structure,
+movement,
+and information between human-scale architecture and the microarchitecture of the integrated circuit nanostructures that pervade the modern world.
+
+
+massively parallel processors that feed ever-growing demand for compute resources. Of particular interest are the following computational architectural motifs (that I think may have parallels in urban spaces): (potentially) a lack of verticality / a pervasive 'flatness',
 highly regular/structured layout of standardized components (forming distinct regions at different levels of the hierarchy),
 and hierarchical communication/movements channels.
 
 I'm looking for input from an macro-architecture/urban planning perspective on motifs or concepts that could lend more formal structure to the "silicon cities" I'm interested in creating.
+
+*  The city of transistors
+infrastructure (power domains)
+zoning (specialized processors)
+transportation
+
+difference: cities can change at a structural level in-place,
+chips not so much (they are limited,
+xfor the most part,
+to the flexibility that was designed)
+
 
 * GPU Background
 
