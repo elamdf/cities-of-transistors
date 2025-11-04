@@ -1,6 +1,22 @@
 #+title: Cities of Transistors
 #+author: Elam Day-Friedland
 
+* Gediminas meeting 10.4.25
+references:
+Christian marklei- the clock
+William kendrich working with Peter galistron work on time and regret “the refusal of time”
+
+
+Breadboard with scope and overlayed screen showing internal function
+What is the method that goes beyond representation
+Tensions between what is important and what sis discarded
+Dialectical between positive and acknowledging what is discarded
+Pile of parts with the wrong values
+Project as a motherboard- what outputs can it create?
+Outputs - electrical, map to sound, video
+https://cyber.harvard.edu/events/what-intelligence-lessons-ai-about-evolution-computing-and-minds
+Ask avi about scope and tools, garo Dolan technical folks
+
 * Midterm feedback 10.30.25
 AviGilad: M1 Chip — apple. very energy efficient
 Tiny clock, infrastructure. Chip architecture. Entire world economy - city channels.
