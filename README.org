@@ -1,6 +1,52 @@
 #+title: Cities of Transistors
 #+author: Elam Day-Friedland
 
+schematic as the pre-pictorial catastrophe
+
+Stiegler- This exteriorization produces a new kind of time, because the temporal horizon of human experience includes not only biological memory but technical, recorded, machinic, repeatable memory.
+- tertiary retention via exteriorized memory (technology)
+
+  what does black-box prototyping/experimentation have to do with this
+
+  the cliché is not merely inside painters’ heads; it is in the technological memory system of the entire culture.
+
+  Bacon tries not to “paint the photograph,” because for him the photograph already captures the cliché.
+
+  555 as an implementation of time as technics
+
+  innovation in circuit design
+
+The 555 is the perfect place to stage resistance:
+
+- It’s simple enough to reverse-engineer or bias into weird modes
+
+- It’s common enough that its clichés are deeply entrenched
+
+- It’s stable enough that you can push it into strange attractors and chaotic behavior (catastrophe literally becomes part of the electrical dynamics)
+
+how can you violate the schema of a 555? it has a very specific purpose
+
+Kind of emergency room environment trying to debug blackbox 555 timer (with probes hooked onto legs), talk about the impossibility of introspection
+
+how do cliches inhibit tinkering
+
+
+
+electronics with ICs are maybe less ammenable to tinkering because of the more narrow acceptance criteria
+
+has electrical engineering been terratorialized
+
+a lot of things have to slot in to place for your experiment to be even reasonably interpretable
+
+the tension between cliche (i.e. having something work) and experimentation
+- feedback/recursion?
+- maybe have some breadboard inviting tinkering and experimentation but restricted s.t. only the canonical setup of the 555 can be created
+-
+  what is the method that goes beyond representation?
+  representation is a black box (even with the microct)- how can we show
+
+installation of breadboard and screen with scope readout
+
 * Gediminas meeting 10.4.25
 references:
 Christian marklei- the clock
