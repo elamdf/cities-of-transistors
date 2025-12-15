@@ -1,6 +1,9 @@
 #+title: Cities of Transistors
 #+author: Elam Day-Friedland
 
+* Meeting 12.2.25
+
+*  notes
 schematic as the pre-pictorial catastrophe
 
 Stiegler- This exteriorization produces a new kind of time, because the temporal horizon of human experience includes not only biological memory but technical, recorded, machinic, repeatable memory.
@@ -88,8 +91,10 @@ creating a ?? of information flow from some spore
 
 financial cycles
 
-* TODO transparent film paper of city on top of micrpgraph
+* CANCELED transparent film paper of city on top of micrpgraph
 
+- State "CANCELED"   from "TODO"       [2025-11-25 Tue 20:19] \\
+  project went a different direction
 * overview
 
 This project seeks to explore common notions of structure,
